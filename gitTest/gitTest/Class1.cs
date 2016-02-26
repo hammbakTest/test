@@ -8,6 +8,6 @@ namespace gitTest
 {
     class NewClass1
     {
-        string newFileName = "";
+        string newFileName = "web";
     }
 }

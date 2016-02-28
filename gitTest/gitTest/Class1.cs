@@ -10,5 +10,6 @@ namespace gitTest
     {
         string newFileName = "web";
         newFileName = "test";
+        if ("test".Equals(newFileName)) newFileName = "equlas";
     }
 }
